@@ -8,4 +8,6 @@ Ce projet est un jeu mobile en Réalité Augmentée développé avec Unity et AR
 - Comptage automatique du score à chaque panier marqué.
 - Affichage du score à l’écran.
 
-Ce projet propose une expérience ludique et immersive, modernisant le concept de Paper Toss grâce à la réalité augmentée.
+Ce projet propose une expérience ludique et immersive, modernisant le concept de Paper Toss grâce à la réalité augmentée.  
+  
+J'ai rencontré un problème avec git car j'étais rester sur le repository de TD.
